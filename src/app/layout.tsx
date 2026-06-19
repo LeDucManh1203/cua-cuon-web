@@ -6,6 +6,11 @@ import { Footer } from "@/components/layout/Footer";
 export const metadata: Metadata = {
   title: "Cửa Cuốn Việt Đức - Sửa Chữa & Lắp Đặt Chuyên Nghiệp",
   description: "Giải pháp an ninh toàn diện cho ngôi nhà của bạn. Cam kết chất lượng, giá cạnh tranh, đội ngũ thợ chuyên nghiệp.",
+  icons: {
+    icon: "/assets/images/logo2.png",
+    shortcut: "/assets/images/logo2.png",
+    apple: "/assets/images/logo2.png",
+  },
 };
 
 export default function RootLayout({
